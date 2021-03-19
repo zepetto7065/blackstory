@@ -19,3 +19,5 @@
 ## 5. 업데이트 내역
 
 ## 6. 기타
+### notion
+https://www.notion.so/zepetto7065/3b85ef6868ce4c47b5fb10bda57ffcfd
